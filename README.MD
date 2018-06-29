@@ -1,4 +1,3 @@
 Meu primeiro sistema no git
 
-alterar o que quiser 
-alteração feito no master
+(alterado e atualizado) e como importar no github
